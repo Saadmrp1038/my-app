@@ -2,8 +2,8 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://Saadmrp1038.github.io/my-app",
-   "dependencies": {
+  "homepage": "https://Saadmrp1038.github.io/my-app",
+  "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
     "@testing-library/user-event": "^12.7.1",
